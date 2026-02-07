@@ -33,11 +33,7 @@
 
 ## 🎮 Pacman Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="assets/github-contribution-graph.svg" width="100%">
-</picture>
+![Pacman Graph](assets/pacman-graph.svg)
 
 
 ![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25899&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
