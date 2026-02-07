@@ -9,15 +9,15 @@ permissions:
 
 jobs:
   generate:
-  runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v4
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-    - name: Create assests directory
-      run: mkdir -p assets
+      - name: Create assests directory
+        run: mkdir -p assets
       
-    - uses: cz19707/gh-space-shooter@v1
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        output_path: assets/space-shooter.gif
-        strategy: random
+      - uses: cz19707/gh-space-shooter@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: assets/space-shooter.gif
+          strategy: random
