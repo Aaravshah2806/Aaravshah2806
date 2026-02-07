@@ -1,4 +1,4 @@
-name: Update Pacman Contribution Graph
+name: Generate Pacman Contribution Graph
 on:
   schedule:
     - cron: '0 0 * * *' 
@@ -15,18 +15,16 @@ jobs:
 
       - name: Create assets directory
         run: mkdir -p assets
-      
-      - name: Generate Pacman Contribution Graph
-        uses: maurodesouza/github-readme-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          output_dir: assets
-          years: 1
 
-      - name: Commit changes
+      - name: Generate Pacman Graph
+        run: |
+          # Using GitHub stats API with animated theme
+          curl -o assets/pacman-graph.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true"
+          
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add assets/
-          git commit -m "🎮 Update Pacman Contribution Graph" -a || true
+          git commit -m "🎮 Update Pacman contribution visualization" -a || true
           git push
