@@ -1,45 +1,72 @@
 <h1 align="center">Hi 👋, I'm Aarav Shah</h1>
-<h3 align="center">A passionate Computer Student in India</h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | F1 Fanatic 🏎️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravshah2806&label=Profile%20views&color=0e75b6&style=flat" alt="aaravshah2806" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravshah2806" alt="aaravshah2806" /></a> </p>
-
-- 🔭 I’m currently working on **12 Weeks 12 Projects Challenge, Python F1 Race Replay System, My Portfolio Website**
-
-- 🌱 I’m currently learning **Cybersecurity, MongoDB**
-
-- 💬 Ask me about **Python, MySQL, ReactJS**
-
-- 📫 How to reach me **shahaarav2806@gmail.com**
-
-- ⚡ Fun fact **"All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents." - APJ Abdul Kalam was right**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aarav-shah28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aarav-shah28" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shahaarav2806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shahaarav2806" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaravshah2806&label=Profile%20views&color=0e75b6&style=flat-square" alt="aaravshah2806" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravshah2806&theme=flat&column=7" alt="trophies" height="150"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/HackPlay.Aar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HackPlay.Aar" /></a></p><br><br>
+### 💫 About Me
+I'm a Computer Engineering student from Mumbai, currently pushing the limits of web performance and network security. When I'm not debugging code, I'm likely analyzing telemetry data from a Lewis Hamilton qualifying lap or strategizing my next move in Chess.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaravshah2806&show_icons=true&locale=en" alt="aaravshah2806" /></p>
+- 🚀 **Latest Win:** 1st Place at TCET Pragati Hackathon with **Greenova** (Sustainability Platform).
+- 🛠️ **Current Sprint:** Dominating the **#12Weeks12Projects** challenge (Check out **GameBoy WebOS**!).
+- 🔐 **Focusing on:** Advanced Cybersecurity, MongoDB, and .NET C# WinForms.
+- 💬 **Ask me about:** ReactJS, Python, and why the DORA process is vital for DHCP.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaravshah2806&" alt="aaravshah2806" /></p>
+---
 
-## 🎮 Pacman Contribution Graph
+### 🏆 Featured Hackathon Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Greenova** | Sustainable product discovery platform. | React, Node.js |
+| **HealFlow** | AI-assisted healthcare workflow agent. | Python, AI/ML, Flutter |
+| **VibeDocs** | AI-powered GitHub README generator. | Python, OpenAI API |
 
-![Pacman Stats](https://github-readme-stats.vercel.app/api?username=aaravshah2806&show_icons=true&theme=dracula&hide_border=true)
+---
 
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  <br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25899&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+---
 
+### 📊 Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaravshah2806&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaravshah2806&theme=tokyonight&hide_border=true" />
+</p>
 
-<!---
-Aaravshah2806/Aaravshah2806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img width="96%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25899&api_domain=hackatime.hackclub.com&custom_title=Coding+Time&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/aarav-shah28" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/shahaarav2806" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="mailto:shahaarav2806@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/HackPlay.Aar">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Support" />
+  </a>
+</p>
+
+<p align="center"><i>"All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents." - APJ Abdul Kalam</i></p>
