@@ -362,7 +362,7 @@ Building scalable applications across AI, cybersecurity, frontend systems, backe
 
 ---
 
-# 𝐏𝐚𝐜𝐌𝐚𝐧 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐚𝐦𝐞
+# Snake 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐚𝐦𝐞
 
 <div align="center">
 
