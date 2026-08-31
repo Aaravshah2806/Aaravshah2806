@@ -76,7 +76,7 @@ Outside development, you will probably find me analyzing Formula 1 telemetry, st
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,php,bash" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript" />
 
 </div>
 
